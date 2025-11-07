@@ -89,7 +89,7 @@ void PlaySnake::update() {
     moveTimer += elapsedTime;
     // Add new head based on mouse position, checking for collisions, and determining if food has been eaten or not
     while (moveTimer >= moveInterval) { // If there is a fps drop, then we need to catch up on the missed moves.
-        //moveSnake(playerOne);
+        moveSnake(playerOne);
         moveSnake(playerTwo);
 
         checkCollision(playerOne, playerTwo);
