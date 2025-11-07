@@ -1,0 +1,12 @@
+# IDE / Project specific 
+.idea/
+
+# Ignored build directories
+cmake-build-debug/
+
+# Compiled files & executables
+*.o
+*.obj
+*.exe
+*.out
+
