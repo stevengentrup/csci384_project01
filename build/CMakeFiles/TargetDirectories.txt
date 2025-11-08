@@ -1,3 +1,0 @@
-/home/steveng/Documents/UND/csci384/Game_Project/build/CMakeFiles/PlaySnake.dir
-/home/steveng/Documents/UND/csci384/Game_Project/build/CMakeFiles/edit_cache.dir
-/home/steveng/Documents/UND/csci384/Game_Project/build/CMakeFiles/rebuild_cache.dir
