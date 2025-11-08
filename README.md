@@ -13,7 +13,7 @@ YOU MUST USE C++17 or above
 
     4.) build the executable with the CMakeList.txt inside of the build directory: COMMAND = cmake ..
 
-    5.) COMMAND = cmake --build
+    5.) COMMAND = cmake --build .
 
     6.) Run the executable from the build directory: COMMAND = ./PlaySnake
 
