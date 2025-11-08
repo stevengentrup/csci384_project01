@@ -3,6 +3,7 @@
 
 # Ignored build directories
 cmake-build-debug/
+build/
 
 # Compiled files & executables
 *.o
